@@ -27,3 +27,6 @@ juntei todas as branches primeiramente na develop, e depois disso, me certifican
 # Histórico de versoes
 V0.1.0: Na main, apontando para o commit inicial com index.html, Readme.md e .gitignore, antes das funcionalidades
 v1.0.0: Na main, após a integração completa da develop, com as funcionalidades e correção
+
+# Atualização importante do Readme
+.
